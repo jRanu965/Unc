@@ -1,2 +1,5 @@
 Shawn Situ 
 This calendrer will allow me to put in events and dates and alert me when an event comes up... 
+
+this will be in dark mode with weekend highlighted 
+it will sync with google calendrer.
